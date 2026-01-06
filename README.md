@@ -54,9 +54,10 @@ This dashboard enables stakeholders to:
 
 ---
 
-## 👩‍💻 Author
-**Kritika**  
-Fresher Data Analyst  
+## 🤝 Let’s Connect
+- 💼 **LinkedIn:**
+- 💻 **GitHub:** https://github.com/kritika3933/
+- 📧 **Gmail:** kritikasingh3933@gmail.com
 
 ---
 
