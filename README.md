@@ -2,9 +2,12 @@
 
 # 📦 Supply Chain Analysis Dashboard
 
-This project analyzes **supply chain delivery performance** using key fulfillment metrics to identify delays, service gaps, and improvement opportunities across cities, customers, and products.
+## 📌 Project Overview
+This project focuses on analyzing supply chain delivery performance using fulfillment metrics.  
+An interactive Power BI dashboard was built to track OT, IF, and OTIF indicators.  
+The analysis compares performance across cities, customers, and products.  
+The goal is to identify delivery gaps and support data-driven improvements.
 
----
 
 ## 📌 Project Objective
 To evaluate **on-time and in-full delivery performance** and highlight operational bottlenecks affecting service levels.
@@ -61,6 +64,11 @@ This dashboard enables stakeholders to:
 
 ---
 
-## 📌 Note
-This project is created for **learning and portfolio purposes**, based on a simulated business scenario.
-v
+
+## ✅ Conclusion
+This project provided hands-on experience in analyzing supply chain performance using real-world business metrics. By tracking OT, IF, and OTIF indicators, the dashboard highlights delivery inefficiencies and identifies key cities, customers, and products contributing to delays. The insights generated can support data-driven decision-making and help improve overall service levels and operational efficiency.
+
+# 📦 Supply Chain Analysis Dashboard
+
+This project analyzes **supply chain delivery performance** using key fulfillment metrics to identify delays, service gaps, and improvement opportunities across cities, customers, and products.
+
