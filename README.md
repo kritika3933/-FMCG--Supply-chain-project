@@ -9,6 +9,13 @@ The analysis compares performance across cities, customers, and products.
 The goal is to identify delivery gaps and support data-driven improvements.
 
 
+
+## 🔗 Dashboard Link
+
+🔗 [View Live Dashboard](https://
+
+
+
 ## 📌 Project Objective
 To evaluate **on-time and in-full delivery performance** and highlight operational bottlenecks affecting service levels.
 
@@ -57,18 +64,14 @@ This dashboard enables stakeholders to:
 
 ---
 
+
+## ✅ Conclusion
+This project provided hands-on experience in analyzing supply chain performance using real-world business metrics. By tracking OT, IF, and OTIF indicators, the dashboard highlights delivery inefficiencies and identifies key cities, customers, and products contributing to delays. The insights generated can support data-driven decision-making and help improve overall service levels and operational efficiency.
+
+
 ## 🤝 Let’s Connect
 - 💼 **LinkedIn:**
 - 💻 **GitHub:** https://github.com/kritika3933/
 - 📧 **Gmail:** kritikasingh3933@gmail.com
 
 ---
-
-
-## ✅ Conclusion
-This project provided hands-on experience in analyzing supply chain performance using real-world business metrics. By tracking OT, IF, and OTIF indicators, the dashboard highlights delivery inefficiencies and identifies key cities, customers, and products contributing to delays. The insights generated can support data-driven decision-making and help improve overall service levels and operational efficiency.
-
-
-## 🔗 Dashboard Link
-👉 [View Interactive Power BI Dashboard](https://your-dashboard-link-here)
-
