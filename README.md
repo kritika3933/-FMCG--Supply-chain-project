@@ -68,7 +68,7 @@ This dashboard enables stakeholders to:
 ## ✅ Conclusion
 This project provided hands-on experience in analyzing supply chain performance using real-world business metrics. By tracking OT, IF, and OTIF indicators, the dashboard highlights delivery inefficiencies and identifies key cities, customers, and products contributing to delays. The insights generated can support data-driven decision-making and help improve overall service levels and operational efficiency.
 
-# 📦 Supply Chain Analysis Dashboard
 
-This project analyzes **supply chain delivery performance** using key fulfillment metrics to identify delays, service gaps, and improvement opportunities across cities, customers, and products.
+## 🔗 Dashboard Link
+👉 [View Interactive Power BI Dashboard](https://your-dashboard-link-here)
 
